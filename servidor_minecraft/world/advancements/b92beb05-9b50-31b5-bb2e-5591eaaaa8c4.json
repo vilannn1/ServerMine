@@ -1,0 +1,70 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2025-03-05 21:25:42 +0000"
+    },
+    "done": true
+  },
+  "stellarity:cursed_tome/root": {
+    "criteria": {
+      "requirement": "2025-03-05 21:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-03-05 21:25:42 +0000"
+    },
+    "done": true
+  },
+  "stellarity:dragons_den/cursed_tome/root": {
+    "criteria": {
+      "requirement": "2025-03-05 21:25:42 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-03-05 21:25:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-03-05 21:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-05 21:26:14 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:mage_class": {
+    "criteria": {
+      "mage_class_0": "2025-03-05 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-03-05 21:25:42 +0000"
+    },
+    "done": true
+  },
+  "rpgsmw:choose_your_class": {
+    "criteria": {
+      "choose_your_class_0": "2025-03-05 21:25:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2025-03-05 21:26:23 +0000",
+      "minecraft:forest": "2025-03-05 21:25:43 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
