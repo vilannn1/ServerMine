@@ -293,5 +293,13 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "shirt": "2025-03-06 07:05:46 +0000",
+      "pants": "2025-03-06 07:05:48 +0000",
+      "helmet": "2025-03-06 07:05:44 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
