@@ -7701,3 +7701,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [07Mar2025 14:59:22.364] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to mdca9a04$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
 [07Mar2025 15:04:21.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Mar2025 15:04:21.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 15:09:21.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 15:09:21.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Mar2025 15:14:21.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Mar2025 15:14:21.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
